@@ -19,7 +19,7 @@ To set up this configuration, follow these steps:
 
 1. Install Neovim using your system's package manager or from the official website. For Ubuntu/Debian, run `sudo apt update && sudo apt install neovim`. For Arch Linux, run `sudo pacman -S neovim`. For macOS, use Homebrew with `brew install neovim`. For Windows, download the latest release from the [Neovim GitHub page](https://github.com/neovim/neovim/releases).
 
-2. Clone this repository into your Neovim configuration directory by running `git clone https://github.com/your-username/your-repo-name.git ~/.config/nvim`.
+2. Clone this repository into your Neovim configuration directory by running `git clone https://github.com/yodabytz/neovim.git ~/.config/nvim`.
 
 3. Install Node.js. For Ubuntu/Debian, run `sudo apt install nodejs npm`. For macOS, use `brew install node`. For Windows, download Node.js from [https://nodejs.org](https://nodejs.org).
 
